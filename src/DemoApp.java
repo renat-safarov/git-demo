@@ -2,5 +2,6 @@ public class DemoApp {
     public static void main(String[] args) {
         System.out.println("Git demo");
         System.out.println("Hello from dev");
+        System.out.println("Bad message");
     }
 }
